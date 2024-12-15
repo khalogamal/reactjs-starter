@@ -50,7 +50,7 @@
         "rx/arq": "rx/wow"
     },
     "opencl": {
-        "enabled": auto,
+        "enabled": false,
         "cache": false,
         "loader": null,
         "platform": "AMD",
@@ -59,7 +59,7 @@
         "cn/0": false
     },
     "cuda": {
-        "enabled": auto,
+        "enabled": false,
         "loader": null,
         "nvml": false,
         "cn-lite/0": false,
