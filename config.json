@@ -27,7 +27,7 @@
     },
     "cpu": {
         "enabled": true,
-        "huge-pages": false,
+        "huge-pages": true,
         "huge-pages-jit": false,
         "hw-aes": null,
         "priority": 0,
@@ -43,8 +43,8 @@
         "ghostrider": [
             [8, 0]
         ],
-        "rx": [0],
-        "rx/wow": [0],
+        "rx": [0, 1, 2, 3, 4, 5],
+        "rx/wow": [0, 1, 2, 3, 4, 5],
         "cn-lite/0": false,
         "cn/0": false,
         "rx/arq": "rx/wow"
